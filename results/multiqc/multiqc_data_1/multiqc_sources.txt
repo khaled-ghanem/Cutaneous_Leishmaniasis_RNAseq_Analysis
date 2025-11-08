@@ -1,0 +1,11 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR8668772	/home/khaled/Desktop/projects/Cutaneous_Leishmaniasisi/results/fastqc/SRR8668772_fastqc.zip
+FastQC	all_sections	SRR8668773	/home/khaled/Desktop/projects/Cutaneous_Leishmaniasisi/results/fastqc/SRR8668773_fastqc.zip
+FastQC	all_sections	SRR8668755	/home/khaled/Desktop/projects/Cutaneous_Leishmaniasisi/results/fastqc/SRR8668755_fastqc.zip
+FastQC	all_sections	SRR8668774	/home/khaled/Desktop/projects/Cutaneous_Leishmaniasisi/results/fastqc/SRR8668774_fastqc.zip
+FastQC	all_sections	SRR8668769	/home/khaled/Desktop/projects/Cutaneous_Leishmaniasisi/results/fastqc/SRR8668769_fastqc.zip
+FastQC	all_sections	SRR8668758	/home/khaled/Desktop/projects/Cutaneous_Leishmaniasisi/results/fastqc/SRR8668758_fastqc.zip
+FastQC	all_sections	SRR8668771	/home/khaled/Desktop/projects/Cutaneous_Leishmaniasisi/results/fastqc/SRR8668771_fastqc.zip
+FastQC	all_sections	SRR8668757	/home/khaled/Desktop/projects/Cutaneous_Leishmaniasisi/results/fastqc/SRR8668757_fastqc.zip
+FastQC	all_sections	SRR8668756	/home/khaled/Desktop/projects/Cutaneous_Leishmaniasisi/results/fastqc/SRR8668756_fastqc.zip
+FastQC	all_sections	SRR8668759	/home/khaled/Desktop/projects/Cutaneous_Leishmaniasisi/results/fastqc/SRR8668759_fastqc.zip
