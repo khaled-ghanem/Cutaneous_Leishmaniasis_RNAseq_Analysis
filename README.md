@@ -1,7 +1,7 @@
 RNA-Seq Transcriptomics Analysis of Cutaneous Leishmaniasis 
 
 
-This project presents analysis of Single-End RNA-seq data "https://www.ebi.ac.uk/ena/browser/view/PRJNA525604?show=reads" obtained from skin biopsies of Cutaneous Leishmaniasis (CL) patients and endemic healthy controls. 
+This project presents analysis of Single-End Bulk RNA-seq data (https://www.ebi.ac.uk/ena/browser/view/PRJNA525604?show=reads) obtained from skin biopsies of Cutaneous Leishmaniasis (CL) patients and healthy controls. 
 
 The goal was to identify Differentially Expressed Genes (DEGs), analyze Differential Transcript Usage (DTU)/Isoform Switching, and perform Pathway Enrichment Analysis to elucidate the host immune response and molecular mechanisms associated with chronic disease.
 
